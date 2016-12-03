@@ -21,3 +21,7 @@ layoutAttributesForItemAtIndexPath
 返回view的contentSize
 */
 collectionViewContentSize
+
+简书:http://www.jianshu.com/users/a8304ea8f57e/latest_articles
+gitHub:https://github.com/JackShengBin
+gitOs:https://git.oschina.net/__bin/
